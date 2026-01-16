@@ -1,27 +1,33 @@
-👋 Xin chào, tôi là Anh Khoi!
-🎓 Sinh viên năm 3 - Lập trình viên React Native
-Hiện đang theo học chuyên ngành Công nghệ Thông tin và tập trung phát triển ứng dụng di động với React Native. Đam mê xây dựng những ứng dụng mobile đẹp mắt, trải nghiệm mượt mà.
+# 👋 Hi there, I'm Anh Khoi!
 
-🔭 Hiện đang làm
-Học sâu về React Native và hệ sinh thái của nó
+🎓 **Third-year IT Student | React Native Mobile Developer**  
+📍 Vietnam  
 
-Phát triển các dự án cá nhân để nâng cao kỹ năng
+I’m a passionate mobile developer focusing on **React Native**, aiming to build **beautiful, smooth, and user-friendly mobile applications**.  
+I enjoy learning new technologies, improving performance, and turning ideas into real-world apps.
 
-Tìm hiểu về các công nghệ mobile mới
+---
 
-🌱 Đang học
-React Native (Core, Navigation, Animation)
+## 🔭 What I'm Currently Doing
+- Deep learning **React Native** and its ecosystem
+- Building **personal mobile projects** to sharpen my skills
+- Exploring **new mobile technologies & best practices**
 
-State Management (Redux, Context API)
+---
 
-Firebase (Authentication, Firestore, Storage)
+## 🌱 Currently Learning
+- React Native (Core, Navigation, Animations)
+- State Management (Redux, Zustand, Context API)
+- Firebase (Authentication, Firestore, Storage)
+- Supabase
+- Native Modules & Bridge in React Native
+- UI/UX Design for Mobile Applications
 
-Native Modules và Bridge trong React Native
+---
 
-UI/UX Design cho mobile apps
+## 💼 Skills
 
-💼 Kỹ năng
-javascript
+```javascript
 const mySkills = {
   languages: ['JavaScript', 'Java', 'Python'],
   mobile: ['React Native', 'Expo'],
@@ -30,33 +36,3 @@ const mySkills = {
   tools: ['Git', 'GitHub', 'VS Code', 'Postman', 'Figma'],
   databases: ['Firestore', 'MongoDB', 'SQL'],
 };
-📱 Dự án đã làm
-📱 Ứng dụng Todo App với React Native
-
-🛒 Ứng dụng thương mại điện tử mini
-
-📖 Ứng dụng đọc sách/ghi chú
-
-🎵 Ứng dụng nghe nhạc đơn giản
-
-👯 Tôi muốn hợp tác
-Các dự án React Native thú vị
-
-Ứng dụng thực tế giải quyết vấn đề cụ thể
-
-Hackathons về mobile development
-
-📫 Cách liên hệ với tôi
-GitHub: @buianhkhoi1708
-
-Email: [Thêm email của bạn ở đây]
-
-⚡ Sự thật thú vị
-🎯 Mục tiêu: Trở thành Senior React Native Developer
-
-📚 Đang đọc: Tài liệu chính thức của React Native
-
-🎨 Thích thiết kế UI đẹp mắt và trải nghiệm người dùng tốt
-
-💡 Luôn tìm kiếm cách tối ưu hiệu suất ứng dụng
-
