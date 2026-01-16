@@ -1,21 +1,21 @@
-# 👋 Hi there, I'm Anh Khoi!
+# Hi there, I'm Anh Khoi!
 
-🎓 **Third-year IT Student | React Native Mobile Developer**  
-📍 Vietnam  
+**Third-year IT Student | React Native Mobile Developer**  
+Vietnam  
 
 I’m a passionate mobile developer focusing on **React Native**, aiming to build **beautiful, smooth, and user-friendly mobile applications**.  
 I enjoy learning new technologies, improving performance, and turning ideas into real-world apps.
 
 ---
 
-## 🔭 What I'm Currently Doing
+## What I'm Currently Doing
 - Deep learning **React Native** and its ecosystem
 - Building **personal mobile projects** to sharpen my skills
 - Exploring **new mobile technologies & best practices**
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - React Native (Core, Navigation, Animations)
 - State Management (Redux, Zustand, Context API)
 - Firebase (Authentication, Firestore, Storage)
@@ -25,11 +25,11 @@ I enjoy learning new technologies, improving performance, and turning ideas into
 
 ---
 
-## 💼 Skills
+## Skills
 
 ```javascript
 const mySkills = {
-  languages: ['JavaScript', 'Java', 'Python'],
+  languages: ['JavaScript', 'TypesScript', 'Java', 'Python'],
   mobile: ['React Native', 'Expo'],
   frontend: ['React.js', 'HTML/CSS', 'Tailwind CSS'],
   backend: ['Node.js', 'Express', 'Firebase'],
