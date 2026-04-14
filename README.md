@@ -1,38 +1,36 @@
 # Hi there, I'm Anh Khoi!
 
-**Third-year IT Student | React Native Mobile Developer**  
+**Third-year IT Student | Backend & System Developer**  
 Vietnam  
 
-I’m a passionate mobile developer focusing on **React Native**, aiming to build **beautiful, smooth, and user-friendly mobile applications**.  
-I enjoy learning new technologies, improving performance, and turning ideas into real-world apps.
+I’m a passionate software developer focusing on Backend Architecture and System Integration. I aim to build robust, secure, and scalable server-side applications that power seamless user experiences. I enjoy designing RESTful APIs, optimizing database performance, containerizing applications, and turning complex logic into efficient, real-world systems.
 
 ---
 
 ## What I'm Currently Doing
-- Deep learning **React Native** and its ecosystem
-- Building **personal mobile projects** to sharpen my skills
-- Exploring **new mobile technologies & best practices**
+- Designing and developing highly available backend systems using Java (Spring Boot/Quarkus) and Node.js.
+- Integrating intelligent services (like LLM APIs) into backend architectures.
+- Managing database schemas and optimizing complex queries.
+- Containerizing development environments for smoother deployment pipeline
 
 ---
 
 ## Currently Learning
-- React Native (Core, Navigation, Animations)
-- State Management (Redux, Zustand, Context API)
-- Firebase (Authentication, Firestore, Storage)
-- Supabase
-- Native Modules & Bridge in React Native
-- UI/UX Design for Mobile Applications
+- Advanced Backend Frameworks: Spring Boot, Quarkus, NestJS
+- System Architecture: Microservices concepts, RESTful API Best Practices, System Security
+- DevOps & Containerization: Docker environment management
+- Database Optimization: Relational (MySQL) & NoSQL database modeling (MongoDB)
 
 ---
 
 ## Skills
 
 ```javascript
-const mySkills = {
-  languages: ['JavaScript', 'TypesScript', 'Java', 'Python'],
-  mobile: ['React Native', 'Expo'],
-  frontend: ['React.js', 'HTML/CSS', 'Tailwind CSS'],
-  backend: ['Node.js', 'Express', 'Firebase'],
-  tools: ['Git', 'GitHub', 'VS Code', 'Postman', 'Figma'],
-  databases: ['Firestore', 'MongoDB', 'SQL'],
+const backendDevSkills = {
+  languages: ['Java', 'JavaScript/TypeScript', 'Python'],
+  backend: ['Spring Boot', 'Quarkus', 'Node.js', 'Express', 'NestJS'],
+  databases: ['MySQL', 'MongoDB', 'Supabase', 'SQL'],
+  architecture: ['RESTful APIs', 'Authentication/Authorization', 'AI Integration'],
+  devops_tools: ['Docker', 'Git', 'GitHub', 'Postman'],
+  frontend_familiarity: ['React.js', 'React Native']
 };
